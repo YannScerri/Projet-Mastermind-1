@@ -1,0 +1,16 @@
+C:\Users\px77kdr\Desktop\Projet Mastermind\Projet Mastermind\Projet Mastermind\bin\Debug\Projet Mastermind.exe.config
+C:\Users\px77kdr\Desktop\Projet Mastermind\Projet Mastermind\Projet Mastermind\bin\Debug\Projet Mastermind.exe
+C:\Users\px77kdr\Desktop\Projet Mastermind\Projet Mastermind\Projet Mastermind\bin\Debug\Projet Mastermind.pdb
+C:\Users\px77kdr\Desktop\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.csproj.AssemblyReference.cache
+C:\Users\px77kdr\Desktop\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.csproj.SuggestedBindingRedirects.cache
+C:\Users\px77kdr\Desktop\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\px77kdr\Desktop\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.exe
+C:\Users\px77kdr\Desktop\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.pdb
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind\bin\Debug\Projet Mastermind.exe.config
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind\bin\Debug\Projet Mastermind.exe
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind\bin\Debug\Projet Mastermind.pdb
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.csproj.AssemblyReference.cache
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.csproj.SuggestedBindingRedirects.cache
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.csproj.CoreCompileInputs.cache
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.exe
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind\obj\Debug\Projet Mastermind.pdb
