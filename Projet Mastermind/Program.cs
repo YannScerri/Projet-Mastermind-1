@@ -20,33 +20,72 @@ namespace Projet_Mastermind
        
         {   // combinaison entrée par l'utilisateur
             string userInput;
-            
+
+            string combination = "";
+           
             // nombre maximum d'essais autorisés
             int highestAttempts = 10;
             
             // garder en mémoire les résultats déjà entrés
             string results;
-            
+
+            // Tableau contenant les différentes disponibles
+            string[] availableColors = { "G", "Y", "W", "R", "B", "M", "C" };
+
+            // Générateur de nombres aléatoire
+            Random random = new Random();
+
+            // Sauvegarde des couleurs sélectionnées aléatoirement dans un tableau
+            string[] selectedColors = new string[4];
+
+
+
+
+
+
+
             //Texte de bienvenue
             Console.WriteLine("Bienvenue sur Mastermind!");
            
-            //Couleurs pouvant être utilisés par l'utilisateur et nombres d'essais
-            Console.WriteLine("Couleurs possibles: GYWRBMC");
+                //Couleurs pouvant être utilisés par l'utilisateur et nombres d'essais
+                Console.WriteLine("Couleurs possibles: GYWRBMC");
             
-            Console.WriteLine("Essayez de deviner le code en 4 couleurs." + " Vous avez 10 essais. " + "Bonne chance!");
+                Console.WriteLine("Essayez de deviner le code en 4 couleurs." + " Vous avez 10 essais. " + "Bonne chance!");
+                
 
-            // limitation à 10 essais
-            for (int attempts = 1; attempts <= highestAttempts; attempts++)
+                //Génération de 4 couleurs aléatoires
+                for(int cpt = 0; cpt < 4; cpt++)
             {
-                Console.WriteLine("Essai : " + attempts);
-                //l'utilisateur entre une combinaison
-                userInput = Console.ReadLine();
+                //générer un index dans la plage des couleurs disponibles
+                int randomIndex = random.Next(0, availableColors.Length);
 
-                while (userInput.Length != 4)
-                {   //cas où l'utilisateur n'entre pas 4 caractères
-                    Console.WriteLine("veuillez entrer uniquement 4 caractères");
-                    userInput = Console.ReadLine();
+                //Ajouter la couleur choisie au tableau
+                selectedColors[cpt] = availableColors[randomIndex];
+
+            }
+                Console.WriteLine("Voici la combinaison aléatoire");
+                for(int cpt = 0; cpt < selectedColors.Length; cpt++) 
+                {
+                combination = combination + selectedColors[cpt];
+
                 }
+                //Affichage de la combinaison qu'il faudrait cacher
+                 Console.WriteLine(combination);
+                
+                // limitation à 10 essais
+                for (int attempts = 1; attempts <= highestAttempts; attempts++)
+                {
+                    Console.WriteLine("Essai : " + attempts);
+                    //l'utilisateur entre une combinaison
+                    userInput = Console.ReadLine();
+
+                    while (userInput.Length != 4)
+                    {   //cas où l'utilisateur n'entre pas 4 caractères
+                        Console.WriteLine("veuillez entrer uniquement 4 caractères");
+                        userInput = Console.ReadLine();
+
+                       
+                    }
                 
 
 
