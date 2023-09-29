@@ -39,6 +39,13 @@ namespace Projet_Mastermind
             // Sauvegarde des couleurs sélectionnées aléatoirement dans un tableau
             string[] selectedColors = new string[4];
 
+            //variables 
+            int correctColor = 0;
+            
+            int wrongPlace = 0;
+            
+            int wrongColor = 0;
+
 
 
 
@@ -71,7 +78,7 @@ namespace Projet_Mastermind
                 combination = combination + selectedColors[cpt];
 
                 }
-                //Affichage de la combinaison qu'il faudrait cacher
+                //Affichage de la combinaison qu'il faudra cacher
                  Console.WriteLine(combination);
                 
                 // limitation à 10 essais
@@ -92,9 +99,12 @@ namespace Projet_Mastermind
                     //combinaison correcte
                     if(userInput.ToUpper() == combination)
                     {
-                    Console.WriteLine("Bravo vous avez réussi");
+                    Console.WriteLine("Bravo vous avez réussi !");
                     Console.ReadLine();
                     }
+
+                    //identification de la couleur juste
+                    for(int cpt= 0; cpt < combination; cpt++) { }
                 
 
 
