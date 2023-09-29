@@ -1,4 +1,8 @@
-﻿using System;
+﻿///ETML
+///Auteur: Yann Scerri
+///Date: 08.09.2023
+///Description: Projet de Mastermind en C#
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,10 +13,7 @@ namespace Projet_Mastermind
     internal class Program
     {
         static void Main(string[] args)
-        ///ETML
-        ///Auteur: Yann Scerri
-        ///Date: 08.09.2023
-        ///Description: Projet de Mastermind en C#
+        
 
          
         
@@ -43,9 +44,10 @@ namespace Projet_Mastermind
 
 
 
-
             //Texte de bienvenue
+            Console.WriteLine("********************");
             Console.WriteLine("Bienvenue sur Mastermind!");
+            Console.WriteLine("********************");
            
                 //Couleurs pouvant être utilisés par l'utilisateur et nombres d'essais
                 Console.WriteLine("Couleurs possibles: GYWRBMC");
@@ -62,7 +64,7 @@ namespace Projet_Mastermind
                 //Ajouter la couleur choisie au tableau
                 selectedColors[cpt] = availableColors[randomIndex];
 
-            }
+            }   //combinaison aléatoire
                 Console.WriteLine("Voici la combinaison aléatoire");
                 for(int cpt = 0; cpt < selectedColors.Length; cpt++) 
                 {
@@ -83,8 +85,15 @@ namespace Projet_Mastermind
                     {   //cas où l'utilisateur n'entre pas 4 caractères
                         Console.WriteLine("veuillez entrer uniquement 4 caractères");
                         userInput = Console.ReadLine();
+                        
 
                        
+                    }
+                    //combinaison correcte
+                    if(userInput.ToUpper() == combination)
+                    {
+                    Console.WriteLine("Bravo vous avez réussi");
+                    Console.ReadLine();
                     }
                 
 
