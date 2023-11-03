@@ -18,9 +18,6 @@ namespace Projet_Mastermind
             // nombre maximum d'essais autorisés
             int highestAttempts = 10;
 
-            // garder en mémoire les résultats déjà entrés
-            char[] userGuess;
-
             // Tableau contenant les différentes disponibles
             string[] availableColors = { "G", "Y", "W", "R", "B", "M", "C" };
 

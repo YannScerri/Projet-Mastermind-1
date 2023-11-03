@@ -6,3 +6,11 @@ D:\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape
 D:\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\bin\Debug\Projet Mastermind test étape.pdb
 D:\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\obj\Debug\Projet Mastermind test étape.exe
 D:\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\obj\Debug\Projet Mastermind test étape.pdb
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\bin\Debug\Projet Mastermind test étape.exe.config
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\bin\Debug\Projet Mastermind test étape.exe
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\bin\Debug\Projet Mastermind test étape.pdb
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\obj\Debug\Projet Mastermind test étape.csproj.AssemblyReference.cache
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\obj\Debug\Projet Mastermind test étape.csproj.SuggestedBindingRedirects.cache
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\obj\Debug\Projet Mastermind test étape.csproj.CoreCompileInputs.cache
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\obj\Debug\Projet Mastermind test étape.exe
+D:\Projet Mastermind\Projet Mastermind\Projet Mastermind test étape\Projet Mastermind test étape\obj\Debug\Projet Mastermind test étape.pdb

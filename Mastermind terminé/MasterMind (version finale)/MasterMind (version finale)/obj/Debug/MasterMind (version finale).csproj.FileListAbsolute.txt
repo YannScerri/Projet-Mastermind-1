@@ -1,0 +1,8 @@
+C:\Users\px77kdr\Desktop\Mastermind Yann Scerri\MasterMind (version finale)\MasterMind (version finale)\bin\Debug\MasterMind (version finale).exe.config
+C:\Users\px77kdr\Desktop\Mastermind Yann Scerri\MasterMind (version finale)\MasterMind (version finale)\bin\Debug\MasterMind (version finale).exe
+C:\Users\px77kdr\Desktop\Mastermind Yann Scerri\MasterMind (version finale)\MasterMind (version finale)\bin\Debug\MasterMind (version finale).pdb
+C:\Users\px77kdr\Desktop\Mastermind Yann Scerri\MasterMind (version finale)\MasterMind (version finale)\obj\Debug\MasterMind (version finale).csproj.AssemblyReference.cache
+C:\Users\px77kdr\Desktop\Mastermind Yann Scerri\MasterMind (version finale)\MasterMind (version finale)\obj\Debug\MasterMind (version finale).csproj.SuggestedBindingRedirects.cache
+C:\Users\px77kdr\Desktop\Mastermind Yann Scerri\MasterMind (version finale)\MasterMind (version finale)\obj\Debug\MasterMind (version finale).csproj.CoreCompileInputs.cache
+C:\Users\px77kdr\Desktop\Mastermind Yann Scerri\MasterMind (version finale)\MasterMind (version finale)\obj\Debug\MasterMind (version finale).exe
+C:\Users\px77kdr\Desktop\Mastermind Yann Scerri\MasterMind (version finale)\MasterMind (version finale)\obj\Debug\MasterMind (version finale).pdb

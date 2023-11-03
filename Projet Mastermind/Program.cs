@@ -104,30 +104,7 @@ namespace Projet_Mastermind
                     Console.ReadLine();
                     }
 
-                    //identification de la couleur juste
-                    for(int cpt= 0; cpt < correctColor; cpt++) 
-                    { 
-                    if (colorsCopy[cpt])
-                    }
-                
-
-                    //identification de la couleur juste mais mal placée
-                    for (int cpt= 0; cpt < selectedColors.Length; cpt++)
-                {
-                    if (colorsCopy[cpt] == inputCopy[cpt]) 
-                    {
-                        //faire en sorte que si la couleur correspond à la même position, elle ne soit plus comptée
-                        colorsCopy[cpt] = "X";
-                        inputCopy[cpt] = "X";
-
-
-                    }
-                }
-                    //compter les couleurs mal placées restantes
-                    for(int cpt = 0;cpt < inputCopy.Length; cpt++) 
-                    {
-                    if (inputCopy[cpt] != "X" && Array.IndexOf(colorsCopy, inputCopy[cpt])
-                    }
+                    
 
             }
 
